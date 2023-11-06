@@ -1,0 +1,85 @@
+Check in time start	Time end	Tasks done
+8/29                                    ,4pm (part of week 1)	8/29 5pm       ,1hr                                    ,Contacting a professor to supervise my work at CISC4900 as well as talks to contribute to his project
+8/30                                    ,7:30pm (part of week 1)	8/30 9:35pm ,1hr                                    ,Finished and submitted project proposal
+Week 1	Total time so far : 2hrs
+9/5                                     ,12:15pm	9/5 2:15pm                  ,4hrs                                   ,Finished setting a git repo on GitHub to prepare for project
+9/6                                     ,12:15pm	9/6 2:15pm                  ,6hrs                                   ,Research and discussion with professor hui (supervisor) for project specifics
+9/6                                     ,5pm	9/6 7pm                         ,8hrs                                   ,Begun working on design docs
+9/7                                     ,5pm	9/7 8pm                         ,11hrs                                  ,Research on what language and frameworks to use
+9/8                                     ,6pm	9/8 8pm                         ,13hrs                                  ,More design doc work
+9/9                                     ,6pm	9/9 8:30pm                      ,15hrs 30min                            ,Setting up for dev environment (I.E getting streamlit and python to work in terminal)
+Week 2	Time so far 17hrs 30min
+9/11                                    ,12:15pm	9/11 2:15pm                 ,2hrs                                   ,After getting help from supervisor streamlit works now
+9/12                                    ,5pm	9/12 7pm                        ,4hrs                                   ,Initial setup of .features file and streamlit. Also submitted theses additions into version control.
+9/13                                    ,5pm	9/13 8pm                        ,7hrs                                   ,Additional notes onto design docs and researching on how to complete the project
+9/14                                    ,5pm	9/14 8pm                        ,10hrs                                  ,More online researching and first commit of the .features file
+9/15                                    ,5pm 	9/15 7pm                       ,12hrs                                  ,Discussion with supervisor on how I can further refine my .features file
+9/15                                    ,9pm	9/15 11pm                       ,14hrs                                  ,Research and more edits to .features file now considers error scenarios
+9/16                                    ,10am	9/16 11:30am                   ,15hrs 30min                            ,Last second edits and commit into version control
+9/17                                    ,6pm	9/17 7:30pm                     ,17hrs                                  ,Begun research on skeleton of the app and implementation
+Week 3	Total: 34.5hrs
+9/18                                    ,5pm	9/18 8pm                        ,3hrs                                   ,After meeting with professor updated .features file once again
+9/19                                    ,12:15	9/19 2:15                     ,5hrs                                   ,More .features work and implementation of initial features
+9/19                                    ,7pm	9/19 10pm                       ,8hrs                                   ,Set up issues feature on GitHub to better communicate with professor and more feature file work.
+9/20                                    ,6pm	9/20 8pm                        ,10hrs                                  ,General research and getting ready for first demo
+9/21                                    ,7pm	9/21 9pm                        ,12hrs                                  ,More general research and getting ready for first demo
+9/23                                    ,4pm	9/23 7pm                        ,15hrs                                  ,Researching streamlit api
+Week 4	total: 49.5hrs
+9/25                                    ,12am	9/25 1am                       ,1hr                                    ,Perfecting .features file
+9/26                                    ,12:15pm	9/26 2:15pm 3hr             ,Cleaning and reorganizing feature file
+9/27                                    ,12:15pm 	9/27 2:15pm                ,5hr                                    ,Cleaning up feature file as specified by prof and more research
+9/28                                    ,9pm	9/29 12am                       ,8hrs                                   ,Researching and creating a database to store data
+9/29                                    ,12:30am	9/29 2:30am                 ,10hrs                                  ,Trying to get db to work
+9/30                                    ,9pm	9/30 11pm                       ,11hrs                                  ,Researching databases
+10/1                                    ,9pm	10/1 11:30pm                    ,14.5hrs                                ,Shelving db idea for future iterations and researching for new design to satisfy MVP
+Week 5	Total: 64hrs
+10/2                                    ,3:30pm	10/2 4:30pm                  ,1hr                                    ,Meeting with supervisor for advice
+10/2                                    ,6pm	10/2 9pm                        ,4hr                                    ,Shelving DB and making text files official data storage.
+10/3                                    ,6pm	10/3 9pm                        ,7hr                                    ,Research and discussion with professor hui (supervisor) for more advice
+10/4                                    ,6pm	10/4 9pm                        ,10hrs                                  ,researching inheritance in python and abstract classes
+10/5                                    ,6pm	10/5 9pm                        ,13hrs                                  ,Begun to implement read from file and add data to array to be manipulated
+10/8                                    ,7pm	10/8 10pm                       ,16hrs                                  ,New object files to store data as well as researching streamlit library methods.
+Week 6	Total: 80hrs
+10/9                                    ,8pm	11pm                            ,3hrs                                   ,Got array of objects to work while filtering entries to not allow repeats and more research.
+10/10                                   ,12:15pm	2:15pm                      ,5hrs                                   ,Continued work for previous day
+10/10                                   ,4pm	10/10 6pm                       ,7hrs                                   ,Got array of objects to work while filtering entries. Each topic object now correctly stores subtopics.
+10/13                                   ,11am	10/13 3pm                      ,11hrs                                  ,Initialized new classes and did some troubleshooting to get streamlit to work
+Week 7	Total: 91hrs
+10/16                                   ,12:15pm	2:15pm                      ,2hrs                                   ,Began implementing multi page web app
+10/17                                   ,12:15pm	2:15pm                      ,4hrs                                   ,additional entries into data and research into multiple page feature using streamlit
+10/17                                   ,6pm	10pm                            ,8hrs                                   ,Trouble shooting multi page feature
+10/18                                   ,6pm	8pm                             ,10hrs                                  ,More research into simple multi page feature
+10/19                                   ,6pm	8pm                             ,12hrs                                  ,Began to implement full integration of csv data into web output
+10/21                                   ,8pm	11pm                            ,15hrs                                  ,Finishing up csv data into web output
+Week 8	Total 106hrs
+10/23                                   ,12:15pm 	10/23 2:15pm               ,2hrs                                   ,Troubleshooting/cleaning up code
+10/28                                   ,3pm	10/28 6pm                       ,5hrs                                   ,The program now correctly takes in all data and formats them
+Week 9 	Total 114hrs
+10/29                                   ,5pm	10/29 8pm                       ,3hrs                                   ,Revising class/ design docs and first draft of presentation slides
+10/30                                   ,5pm 	10/30 8pm                      ,6hrs                                   ,More work on slides
+11/1                                    ,7pm	11/1 11pm                       ,10hrs                                  ,More work on slides/cleaned up implementation for better readability
+11/3                                    ,5:45pm	11/3 6:00pm                  ,15min                                  ,Live presentation
+11/4                                    ,5:00pm	11/4 8pm                     ,13hrs                                  ,Last minute revision on slides and began converting timesheet into csv format
+11/5                                    ,6pm	11/5 8pm                        ,15hrs                                  ,Research for implementation and last minute tasks to submit slides and timesheet to blackboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
